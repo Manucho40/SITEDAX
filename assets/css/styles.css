@@ -1,0 +1,1108 @@
+/* Style du  header*/
+body{
+	
+}
+.haut_dePage{
+	background-color: #00a79d;
+	width: 100%;
+	height: 60px;
+}
+.haut_dePage img{
+	width: 12%;
+	height: 30px;
+	margin-left: 2%;
+	margin-top: 5%;
+}
+
+.icone i a{
+	color: #fff;
+}
+
+.adresse p{
+	color:#6e2e52;
+	font-size: 86%;
+	text-align: left;
+	margin-top: 4%;
+}
+.adresseM p{
+	color:#6e2e52;
+	font-size: 86%;
+	text-align: center;
+	margin-top: 4%;
+}
+.logo{
+	width: 100%;
+	height: 200px;
+	background-color: #6e2e52;
+}
+.logo img{
+
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 150px;
+	height: 200px;
+	
+}
+
+
+nav ul{
+	list-style-type: none;
+}
+
+nav ul li a{
+	color:#bc2448 !important;
+	text-transform: uppercase;
+	font-size: 15px;
+
+}
+.dropdown-item{
+	display: block; 
+	color: #bc2448!important;
+}
+/*.adresse p{
+	margin-right: 40px;
+}
+/*************************
+***************************
+Style de la page d'accueil*
+***************************
+****************************/
+.suite{
+	text-align: center;
+}
+.btn btn-primary a{
+	color: #fff !important;
+}
+#paroisse h1{
+	text-align: center;
+	font-family: Bodoni bold;
+	color: #00a79d;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+.paroisse1 button{
+	width: 100%;
+	height: 100px;
+	background-color: #6e2e52;
+	display: inline;
+}
+.paroisse1 a{
+	color: #fff;
+
+}
+
+.paroisse2 button{
+	width: 100%;
+	height: 100px;
+	background-color: #6e2e52;
+	display: inline;
+}
+.paroisse2 img{
+	width: 100%;
+}
+.text{
+	z-index: 1;
+	position: absolute;
+	text-align: center;
+	margin: 0 auto;
+	left: 0;
+	right: 0;
+	top: 50%;
+	width: 50%;
+	color: #bc2448;
+	font-size: 20px;
+}
+.paroisse3 button{
+	width: 100%;
+	height: 100px;
+	background-color: #6e2e52;
+	display: inline;
+}
+.paroisse4 button{
+	width: 100%;
+	height: 100px;
+	background-color: #6e2e52;
+	display: inline;
+	color: #fff;
+}
+#messe h2{
+	margin-top: 50px;
+	text-align: center;
+	font-family: Bodoni bold;
+	color: #00a79d;
+
+}
+#messe img{
+	margin-top: 20px;
+	width: 100%;
+	height:400px;
+	
+}
+#messe a{
+	background-color: #bc2448;
+	width: 150px;
+	height: 80px;
+	border: 1px solid #bc2448;
+	border-radius: 3%;
+	color: #fff;
+	text-align: center;
+	text-decoration-line: none;
+	margin-bottom: 50px;
+}
+#activites{
+	background-color: #6e2e52;
+}
+#activites h2{
+	margin-top: 50px;
+	text-align: center;
+	font-family: Bodoni bold;
+	color: #00a79d;
+}
+#activites button{
+	width: 100%;
+	height: 100px;
+	background-color:#00a79d;
+	display: inline;
+	margin-bottom: 50px;
+	margin-top: 40px;
+}
+#activites a{
+	color: #fff;
+
+}
+/*
+.vie2 button{
+	width: 100%;
+	height: 100px;
+	background-color: #00a79d;
+	display: inline;
+	/*margin-bottom: 50px;
+	margin-top: 40px;
+	border-radius: 5%;
+}
+.vie2 a{
+	color: #fff;
+	font-size: 25px;
+
+}
+.vie3 button{
+	width: 100%;
+	height: 100px;
+	background-color: #00a79d;
+	display: inline;
+	margin-bottom: 50px;
+	margin-top: 40px;
+}
+.vie3 a{
+	color: #fff;
+
+}
+.vie4 button{
+	width: 100%;
+	height: 100px;
+	background-color: #00a79d;
+	display: inline;
+	color: #fff;
+	margin-bottom: 50px;
+	margin-top: 40px;
+}
+.vie4 a{
+	color: #fff;
+
+}*/
+#sacrements{
+	background-color:#00a79d;
+	height: 300px;
+	margin-top: 0px; 
+	margin-bottom: 50px;
+}
+#sacrements h2{
+	margin-top: 50px;
+	text-align: center;
+	font-family: Bodoni bold;
+	color: #bc2448;
+}
+#sacrements button{
+	width: 100%;
+	height: 100px;
+	background-color:#bc2448;
+	display: inline;
+	margin-bottom: 50px;
+	margin-top: 40px;
+	border-radius: 5%;
+}
+#sacrements a{
+	color: #fff;
+
+}
+/************************
+*************************
+**page newsletters*******
+*************************
+*************************/
+#newsletters{
+	background-color: #bc2448;
+}
+.divider{
+	margin-top: 100px;
+	width: 300px;
+	height: 3px;
+	background-color:red;
+	margin: auto;
+
+}
+.heading{
+	text-align: center;
+	margin-bottom: 60px;
+}
+.heading h2{
+	text-transform: uppercase;
+	font-weight: bold;
+	color: white;
+}
+#contact{
+	font-size: 20px;
+	background-color: #fff; 
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto; 
+
+
+}
+.blue{
+	color:blue;
+}
+.form-control{
+	height: 50px;
+	font-size: 18px;
+
+}
+.comments{
+	font-style: italic;
+	font-size: 18px;
+	color: red;
+	height: 25px;
+}
+.button1{
+	margin: 40px auto 0px;
+	display: block;
+	border: 1px solid #ddd;
+	background: #00a79d;
+	width:100%;
+	color: #fff;
+	font-weight: bold;
+	text-transform: uppercase;
+	padding: 18px;
+	border-radius: 5px;
+	transition: all 0.3s ease-in 0s; 
+}
+.button1:hover{
+	background:#333;
+	border-color:#ffa500; 
+}
+.thanks-you{
+	text-align: center;
+	margin-top: 15px;
+	font-weight: bold;
+	font-size: 22px;
+}
+#newsletters h2{
+	margin-top: 50px;
+	text-align: center;
+	font-family: Bodoni bold;
+	color: #00a79d;
+}
+#newsletters input{
+	width: 50%;
+	margin-left:10px;
+	margin-top: 10px;
+	font-family: Bodoni bold;
+	color: #121729;
+}
+#newsletters label{
+	margin-right:30px; 
+}
+/*
+*/
+footer{
+    background-color: #00a79d !important;
+	color: white;
+	margin-top: 10px;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	font-size: 20px;
+	text-align: center;
+    }
+footer a{
+	color:#fff;
+	font-size: 10px;
+	margin-left: 8px;
+	display: inline;
+	border-right: 2px solid #fff;
+}
+footer img{
+	width: 90px;
+	height: 90px;
+}
+/*************************
+***************************
+Style de la page paroisse*
+***************************
+****************************/
+#paroisse{
+	background-color: #bc2448;
+	border-radius: 5%;
+}
+#paroisse h1,h2{
+	text-align: center;
+	color:#00a79d;
+
+}
+
+.cure{
+	width: 500px;
+	height: 300px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+}
+.cure img{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.cure p{
+	color: #fff;
+}
+
+.coop img{
+	width: 50%;
+	border-radius: 50%;
+}
+.coop p{
+	color: #fff;
+	text-align: left;
+}
+
+.coop1 img{
+	width: 25%;
+	border-radius: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+#conseil h2{
+	text-align: center;
+	color: #00a79d;
+	margin-top: 50px;
+}
+.conseil1{
+	/*height: 500px;*/
+	border:1px solid #bc2448;
+}
+.conseil1 h3{
+	font-size: 25px;
+	text-align: center;
+	color: #bc2448;
+}
+.conseil1 p{
+	color: #00a79d;
+	text-align: center;
+}
+#relais h2{
+	margin-top: 50px;
+	text-align: center;
+	margin-top: 50px;
+	color: #00a79d;
+}
+.relais{
+	display: inline;
+	color: #fff;
+	margin-right:20px;
+}
+.relais img{
+	width: 100%;
+	height: 250px;
+}
+#communaute{
+	margin-top: 50px;
+	padding-bottom: 50px;
+	/*height: 600px;*/
+	background-color: #00a79d;
+}
+#communaute h2{
+	margin-top: 30px;
+	margin-bottom: 20px;
+	text-align: center;
+	color: #fff;
+}
+#communaute img{
+	border-radius: 50%;
+	display: block;
+	margin-right: auto;
+	margin-left: auto; 
+}
+
+
+/*************************
+***************************
+Style de la page saintVincent*
+***************************
+****************************/
+#saintVincent{
+	background-color: #bc2448;
+}
+#saintVincent h1{
+	color: #00a79d;
+	text-align: center;
+	margin-bottom: 30px;
+}
+.saintVincent1{
+	/*width: 65%;
+	height: 300px;*/
+	color: #00a79d;
+	
+}
+.saintVincent1 h3,p{	
+	color: red;
+
+}
+.saintVincent1 img{
+	width: 500px;
+	height: 300px;
+}
+.saintVincent2{
+	/*width: 25%;
+	height: 300px;*/
+	color: #fff;
+}
+.permanence h5{
+	margin-top: 30px;
+	margin-bottom: 20px;
+	font-size: 25px;
+
+}
+.saintVincent3{
+	width: 23%;
+	height: 400px;
+	border: 1px solid #121729;
+	display: inline;
+	margin-left: 20px;
+}
+.saintVincent3 h5 {
+	color: #bc2448;
+}
+.saintVincent3  p{
+	color: #bc2448;
+}
+.vieRelais{
+	background-color: #6e2e52;
+}
+.vieRelais1{
+	width: 23%;
+	height: 250px;
+	/*border: 1px solid #121729;*/
+	display: inline;
+	margin-left: 20px;
+
+}
+.vieRelais1{
+	color: #bc2448; 
+}
+.vieRelais1 h5, p{
+	color: #fff; 
+}
+.carteRelais iframe{
+	width: 500px;
+	height: 250px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;	 
+}
+/*************************
+***************************
+Style de la page cathédax*
+***************************
+****************************/
+#cathedale{
+	background-color: #bc2448;
+}
+#cathedrale h1{
+	text-align: center;
+	color: #00a79d;
+}
+#cathedrale p{
+	color: #000;
+}
+/*************************
+***************************
+Style de la page saintPaul*
+***************************
+****************************/
+.saintPaul img{
+	width: 400px;
+	height: 300px;
+}
+/*************************
+***************************
+Style de la page catéchèse*
+***************************
+****************************/
+
+
+#catechese h2{
+	text-align: center;
+	color: #00a79d;
+}
+#catechese h3{
+	text-align: center;
+	color: #00a79d;
+}
+#catechese p{
+	text-align: center;
+	color: #bc2448;
+}
+#cate{
+	background-color: #bc2448;
+}
+#cate h2{
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+#cate h5, p{
+	color: #fff;
+	text-align: center;
+}
+#foi{
+	background-color: #00a79d;
+	margin-bottom: 40px;
+
+}
+#foi h2{
+	text-align: center;
+	color: #bc2448;
+	margin-top: 50px;
+	margin-bottom: 40px;
+}
+.progresFoi h5{
+	text-align: center;
+	color: #bc2448;
+}
+.progresFoi p{
+	text-align: center;
+	color: #fff;
+}
+.progresFoi button{
+	background-color:#fff;
+	color: #bc2448;
+}
+/*************************
+***************************
+Style de la page aumôneries*
+***************************
+****************************/
+.aumonerieEnseignement{
+	
+	background-color: #bc2448;
+}
+.aumonerieEnseignement h2{
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+.aumonerieEnseignement p{
+	text-align: justify;
+}
+.aumonerieEnseignement img{
+	max-width: 500px;
+	max-height: 200px;
+}
+.aumonerieSante{
+	height: 300px;
+	background-color: #6e2e52;
+}
+.aumonerieSante h2{
+	text-align: center;
+}
+.sem{
+	height: 300px;
+	background-color: #00a79d;
+}
+.sem h2,p{
+	text-align: center;
+}
+/*************************
+***************************
+Style de la page mouvements*
+***************************
+****************************/
+#groupePriere{
+	background-color:#6e2e52; 
+}
+#groupePriere h2{
+	color:#00a79d;
+	text-align: center; 
+	margin-top: 50px;
+	margin-bottom: 40px;
+}
+#groupePriere h5{
+	color:#00a79d;
+	text-align: center; 
+}
+#groupePriere p{
+	color:#fff;
+	text-align: center; 
+}
+#solidarite{
+	background-color:#00a79d; 
+
+}
+#solidarite h2{
+	color: #bc2448;
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 40px;
+}
+#solidarite h3{
+	color: #bc2448;;
+	text-align: center;
+}
+#solidarite p{
+	color: #fff;
+	text-align: left;
+}
+.priere1{
+	width: 100%;
+	height: 400px;
+	background-color: #6e2e52;
+}
+.priere1 h5{
+	color: #fff;
+	text-align: center;
+	font-size: 20px;
+}
+.priere1 p{
+	color: #fff;
+}
+
+.solidarite h2{
+	color: #bc2448;
+	text-align: center;
+}
+.solid1{
+	background-color: #bc2448;
+	border-radius: 2%;
+	height: 500px;
+}
+.solid2{
+	width: 47%;
+	height: 220px;
+	display: inline;
+	color: #fff;
+	margin-right:20px;
+	border-radius: 3%;
+	
+}
+.solid2 p{
+	color: #fff;
+	text-align: center;
+}
+.solid2 h5{
+	color: #00a79d;
+	text-align: center;
+	font-size: 20px;
+}
+.spiritualite h2{
+	color: #00a79d;
+	text-align: center;
+}
+.spirit1{
+	background-color: #00a79d;
+	border-radius: 2%;
+	height: 700px;
+}
+.spirit2{
+	width: 47%;
+	height: 300px;
+	/*border: 1px solid #121729;*/
+	display: inline;
+	color: #fff;
+	margin-right:20px;
+	border-radius: 3%;
+	
+}
+.spirit2 p{
+	color: #fff;
+	text-align: center;
+}
+.spirit2 h5{
+	color: #bc2448;
+	text-align: center;
+	font-size: 20px;
+}
+
+.priere2 h2{
+	color: #bc2448;
+	text-align: center;
+}
+.priere2 h5{
+	color: #6e2e52;
+	font-size: 20px;
+}
+.priere3{
+	
+	height: 800px;
+	background-color: #00a79d;
+}
+.priere4{
+	width: 30%;
+	
+	
+}
+.priere5{
+	width: 30%;
+	
+	
+}
+.priere p{
+	color: #fff;
+	text-align: center;
+}
+/*************************
+***************************
+Style de la page messes*
+***************************
+****************************/
+#messes h1{
+	color: #00a79d;
+	margin-top: 30px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+#messes img{
+	width: 100%;
+}
+#messes button{
+	background-color:#bc2448;
+	width: 400px;
+	height: 100px;
+	border-radius: 3%;
+	/* Pour centrer le bouton*/
+	display: block;
+	margin-left: auto;
+	margin-right: auto;	
+}
+#messes a{
+	color: #fff;
+	font-size: 25px;
+}
+#messes a:hover{
+	color: #00a79d;
+}
+#messes h2{
+	color: #00a79d;
+	margin-top: 20px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+.horaire{
+	background-color: #bc2448;
+}
+.horaire h3, h4{
+	text-align: center;
+	margin-top: 20px;
+
+}
+.horaire p{
+	color: #fff;
+	text-align: left;
+	font-size: 15px;
+}
+.messe2 h5{
+	color: #fff;
+	text-align: center;
+	font-size: 20px;
+}
+.messe2 h6{
+	color: #fff;
+	text-align: left;
+	font-size: 18px;
+}
+
+
+.messe3{
+	width: 47%;
+	height: 800px;
+	border: 1px solid #121729;*/
+	display: inline;
+	color: #fff;
+	margin-right:20px;
+	border-radius: 5%;
+	background-color: #00a79d;
+	
+}
+.messe3 h5{
+	color: #fff;
+	text-align: center;
+	font-size: 20px;
+}
+.messe3 h6{
+	color: #fff;
+	text-align: left;
+	font-size: 18px;
+}
+.messe3 p{
+	color: #fff;
+	text-align: left;
+	font-size: 15px;
+}
+.liturgie h2{
+	color: #bc2448;
+	text-align: center;
+
+}
+.liturgie1{
+	border:1px solid #bc2448;
+	background-color: #00a79d;
+	border-radius: 5%;
+}
+.liturgie1 h5{
+	text-align: center;
+	color: #121729;
+	font-size: 20px;
+}
+.liturgie1 p{
+	color: #fff;
+	text-align: center;
+}
+
+.liturgie2 h2{
+	text-align: center;
+	color: #bc2448;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+.liturgie3{
+	border:1px solid #bc2448;
+	background-color: #bc2448;
+	border-radius: 5%;
+	margin-bottom: 50px;
+}
+.liturgie3 h3{
+	text-align: center;
+	color: #121729;
+	font-size: 20px;
+}
+.liturgie4{
+	border:1px solid #00a79d;
+	background-color: #00a79d;
+	border-radius: 5%;
+	margin-bottom: 50px;
+}
+.liturgie4 h3{
+	text-align: center;
+	color: #fff;
+	font-size: 20px;
+}
+.liturgie5{
+	border:1px solid #6e2e52;
+	background-color: #6e2e52;
+	border-radius: 5%;
+	margin-bottom: 50px;
+}
+.liturgie5 h3{
+	text-align: center;
+	color: #121729;
+	font-size: 20px;
+}
+/*************************
+***************************
+Style de la page baptême*
+***************************
+****************************/
+#bapteme{
+	
+	background-color: #6e2e52;
+}
+#bapteme h1{
+	color: #00a79d;
+	text-align: center;
+}
+.bapteme1 h2{
+	font-size: 20px;
+	color: #00a79d;
+}
+.bapteme1 p{
+	color: #fff;
+	text-align: center;
+}
+.btn a{
+	color: #fff!important;
+	text-decoration: none;
+}
+.btn a:hover{
+	color: #bc2448 !important;
+}
+/*************************
+***************************
+Style de la page sacrement*
+de guérison****************
+***************************
+****************************/
+#sacrementG{
+	background-color: #6e2e52;
+	border-radius: 3% 3%;
+}
+#sacrementG h1{
+	text-align: center;
+	color: #bc2448;
+	margin-top: 20px;
+	margin-bottom: 15px;
+
+}
+
+#sacrementG h2{
+	text-align: center;
+	color: #00a79d;
+}
+#sacrementG p{
+	color: #fff;
+	text-align: justify;
+}
+/*************************
+***************************
+Style de la page mariage***
+***************************
+****************************/
+.mariage{
+	width: 100%;
+	/*height: 400px;
+	border: 1px solid #121729;*/
+	display: inline;
+	color: #fff;
+	margin-right:20px;
+}
+.mariage h1{
+	text-align: center;
+	color: #00a79d;
+}
+.mariage img{
+	width: 100%;
+	height: 400px;
+	
+}
+.textMariage h2{
+	z-index: 1;
+	position: absolute;
+	text-align: center;
+	margin: 0 auto;
+	left: 0;
+	right: 0;
+	top: 50%;
+	width: 50%;
+	color: #00a79d;
+	
+}
+.sacrementM1{
+	
+	background-color: #bc2448;
+	
+}
+.mariage1{
+	/*width: 47%;
+	height: 400px;
+	border: 1px solid #121729;
+	display: inline;
+	color: #fff;
+	margin-right:20px;*/	
+}
+.mariage1 h5{
+	color: #fff;
+	text-align: center;
+	font-size: 20px;
+}
+.mariage1 img{
+	/*border-radius: 30%;
+	height: 300px;*/
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 10px;
+}
+.mariage2 img{
+	width: 80%;
+	height: 300px;
+}
+.mariage2 h5{
+	color: #fff;
+	text-align: center;
+	font-size: 20px;
+
+}
+.mariage3{
+	background-color: #00a79d;
+	height: 200px;
+}
+.mariage3 p{
+	color: #fff;
+	text-align: center;
+	font-size: 30px;
+
+}
+/*************************
+***************************
+Style de la page contact*
+***************************
+****************************/
+.secretariat h1{
+	text-align: center;
+	color:#00a79d;
+}
+.secretariat2{
+	background-color: #6e2e52;
+	height: 400px;
+}
+.secretariat2 p{
+	color: #fff;
+	font-size: 20px;
+	text-align: center;
+}
+.secretariat3{
+	background-color: #00a79d;
+	
+}
+.secretariat3 p{
+	color: #fff;
+	font-size: 20px;
+	text-align: left;
+}
+.permanences h2{
+	color: #bc2448;
+	text-align: center;
+	margin-top: 30px;
+}
+.permanences  p{
+	color: #00a79d;
+	text-align: center;
+	font-size: 20px;
+	margin-bottom: 30px;
+}
+.permanences1 h3{
+	color: #bc2448;
+	text-align: center;
+	font-size: 20px;
+}
+.permanences1 p{
+	color: #00a79d;
+	text-align: center;
+	font-size: 20px;
+}
